@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.DevDemos/.idea
+/.vs/DevDemos
+/DateTimesSamples/bin/Debug/net7.0
+/DateTimesSamples/obj
+/UserValidation/bin/Debug/net7.0
+/UserValidation/obj
+*.user

@@ -3,17 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimesSamples", "DateTimesSamples\DateTimesSamples.csproj", "{91EA23E0-3AF4-4892-B742-8ACDD9388525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimesSamples", "DateTimesSamples\DateTimesSamples.csproj", "{91EA23E0-3AF4-4892-B742-8ACDD9388525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserValidation", "UserValidation\UserValidation.csproj", "{DCA5986F-A713-4628-BE8C-F5D7A4C9A6FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserValidation", "UserValidation\UserValidation.csproj", "{DCA5986F-A713-4628-BE8C-F5D7A4C9A6FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDemos.SlackFunction", "DevDemos.SlackFunction\DevDemos.SlackFunction.csproj", "{379B8747-7B3B-43C2-9B73-041132CB13C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{91EA23E0-3AF4-4892-B742-8ACDD9388525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +23,15 @@ Global
 		{DCA5986F-A713-4628-BE8C-F5D7A4C9A6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA5986F-A713-4628-BE8C-F5D7A4C9A6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA5986F-A713-4628-BE8C-F5D7A4C9A6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379B8747-7B3B-43C2-9B73-041132CB13C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379B8747-7B3B-43C2-9B73-041132CB13C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379B8747-7B3B-43C2-9B73-041132CB13C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379B8747-7B3B-43C2-9B73-041132CB13C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AE2F3A-3020-4288-9AF3-2687ABC17D20}
 	EndGlobalSection
 EndGlobal
