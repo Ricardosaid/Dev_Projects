@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\PageModel\ModelBinding.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Account\ModelBinding.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Home\Account\ModelBinding.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Views\Home\Account\ModelBinding.cshtml" />
+      <UpToDateCheckInput Remove="Views\Account\ModelBinding.cshtml" />
+    </ItemGroup>
+
+</Project>
