@@ -9,3 +9,6 @@
 /UserValidation/bin/Debug/net7.0
 /UserValidation/obj
 *.user
+*.vs
+*/bin
+*/obj
