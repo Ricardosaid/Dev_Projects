@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "Dynam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingExecutions", "UsingExecutions\UsingExecutions.csproj", "{714CF556-4F58-461F-87C8-5A4FD3284EED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFunctions", "WindowsFunctions\WindowsFunctions.csproj", "{47737AE0-E405-48AC-85C8-B8F99BD660DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{714CF556-4F58-461F-87C8-5A4FD3284EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{714CF556-4F58-461F-87C8-5A4FD3284EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{714CF556-4F58-461F-87C8-5A4FD3284EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47737AE0-E405-48AC-85C8-B8F99BD660DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47737AE0-E405-48AC-85C8-B8F99BD660DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47737AE0-E405-48AC-85C8-B8F99BD660DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47737AE0-E405-48AC-85C8-B8F99BD660DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
