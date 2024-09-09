@@ -7,27 +7,49 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimesSamples", "DateTim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserValidation", "UserValidation\UserValidation.csproj", "{DCA5986F-A713-4628-BE8C-F5D7A4C9A6FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDemos.SlackFunction", "DevDemos.SlackFunction\DevDemos.SlackFunction.csproj", "{379B8747-7B3B-43C2-9B73-041132CB13C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevDemos.SlackFunction", "DevDemos.SlackFunction\DevDemos.SlackFunction.csproj", "{379B8747-7B3B-43C2-9B73-041132CB13C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndLambda", "DelegateAndLambda\DelegateAndLambda.csproj", "{8E5427EC-D512-4144-AA16-9C0E122F7D46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateAndLambda", "DelegateAndLambda\DelegateAndLambda.csproj", "{8E5427EC-D512-4144-AA16-9C0E122F7D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{0954D3ED-6D59-4FC0-BBAC-5C7EE88948CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{0954D3ED-6D59-4FC0-BBAC-5C7EE88948CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAdvance", "LambdaAdvance\LambdaAdvance.csproj", "{E0B43F4D-6FAB-48E4-8C3A-69BB14471C29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaAdvance", "LambdaAdvance\LambdaAdvance.csproj", "{E0B43F4D-6FAB-48E4-8C3A-69BB14471C29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyLambdaExpressions", "ConcurrencyLambdaExpressions\ConcurrencyLambdaExpressions.csproj", "{2623B4DF-08F4-431A-932B-A280C7A7B101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcurrencyLambdaExpressions", "ConcurrencyLambdaExpressions\ConcurrencyLambdaExpressions.csproj", "{2623B4DF-08F4-431A-932B-A280C7A7B101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTree", "ExpressionTree\ExpressionTree.csproj", "{586C3220-C803-418F-A19C-1122AEEEAC8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionTree", "ExpressionTree\ExpressionTree.csproj", "{586C3220-C803-418F-A19C-1122AEEEAC8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQThreats", "PLINQThreats\PLINQThreats.csproj", "{B3ADB915-38B5-4A0E-BF49-44D673655006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PLINQThreats", "PLINQThreats\PLINQThreats.csproj", "{B3ADB915-38B5-4A0E-BF49-44D673655006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{E49F2586-D8D0-425B-857E-92C960B8B983}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{E49F2586-D8D0-425B-857E-92C960B8B983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingExecutions", "UsingExecutions\UsingExecutions.csproj", "{714CF556-4F58-461F-87C8-5A4FD3284EED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingExecutions", "UsingExecutions\UsingExecutions.csproj", "{714CF556-4F58-461F-87C8-5A4FD3284EED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFunctions", "WindowsFunctions\WindowsFunctions.csproj", "{47737AE0-E405-48AC-85C8-B8F99BD660DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsFunctions", "WindowsFunctions\WindowsFunctions.csproj", "{47737AE0-E405-48AC-85C8-B8F99BD660DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCodeMeaningfulNames", "CleanCodeMeaningfulNames\CleanCodeMeaningfulNames.csproj", "{FBDE2988-188D-42D0-98DA-236932FF0385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanCodeMeaningfulNames", "CleanCodeMeaningfulNames\CleanCodeMeaningfulNames.csproj", "{FBDE2988-188D-42D0-98DA-236932FF0385}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTesting", "UnitTesting", "{B707D818-8F21-4A44-97AA-285D464AFEB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspTest", "AspTest\AspTest.csproj", "{B7F39F37-431A-4ABC-BE76-3472EF767EE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspTestXunit", "AspTestXunit\AspTestXunit.csproj", "{FAA24784-3353-4C41-96C7-FA05B4DB6EF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadingFromExcel", "ReadingFromExcel", "{339BB02B-6028-4608-87B4-F43731F39EF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelReader", "ExcelReader\ExcelReader.csproj", "{DABEB667-404F-4FC3-9466-FD234B8C41B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JonSkeet", "JonSkeet", "{92ACCD5D-8607-4451-BE9F-7A0C5747AA8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnvolvingLanguage", "EnvolvingLanguage\EnvolvingLanguage.csproj", "{EA86A654-FCCE-4109-8B9D-02360C486799}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MAUI", "MAUI", "{9CA8B187-85E5-4115-8674-710AF75598C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp2", "MauiApp2\MauiApp2.csproj", "{9DD7A638-24B8-4E31-8307-CE473BC7A510}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EFCoreWebApi", "EFCoreWebApi", "{E3BD2988-1E21-4801-AB9F-0CC6B0BC4FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstTemplate", "CodeFirstTemplate\CodeFirstTemplate.csproj", "{B55DCDD3-719C-486D-9CCF-58D22846E94D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,9 +109,43 @@ Global
 		{FBDE2988-188D-42D0-98DA-236932FF0385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBDE2988-188D-42D0-98DA-236932FF0385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBDE2988-188D-42D0-98DA-236932FF0385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F39F37-431A-4ABC-BE76-3472EF767EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F39F37-431A-4ABC-BE76-3472EF767EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F39F37-431A-4ABC-BE76-3472EF767EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F39F37-431A-4ABC-BE76-3472EF767EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA24784-3353-4C41-96C7-FA05B4DB6EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA24784-3353-4C41-96C7-FA05B4DB6EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA24784-3353-4C41-96C7-FA05B4DB6EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA24784-3353-4C41-96C7-FA05B4DB6EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABEB667-404F-4FC3-9466-FD234B8C41B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABEB667-404F-4FC3-9466-FD234B8C41B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABEB667-404F-4FC3-9466-FD234B8C41B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABEB667-404F-4FC3-9466-FD234B8C41B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA86A654-FCCE-4109-8B9D-02360C486799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA86A654-FCCE-4109-8B9D-02360C486799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA86A654-FCCE-4109-8B9D-02360C486799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA86A654-FCCE-4109-8B9D-02360C486799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD7A638-24B8-4E31-8307-CE473BC7A510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD7A638-24B8-4E31-8307-CE473BC7A510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD7A638-24B8-4E31-8307-CE473BC7A510}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9DD7A638-24B8-4E31-8307-CE473BC7A510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD7A638-24B8-4E31-8307-CE473BC7A510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD7A638-24B8-4E31-8307-CE473BC7A510}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B55DCDD3-719C-486D-9CCF-58D22846E94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55DCDD3-719C-486D-9CCF-58D22846E94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55DCDD3-719C-486D-9CCF-58D22846E94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55DCDD3-719C-486D-9CCF-58D22846E94D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B7F39F37-431A-4ABC-BE76-3472EF767EE8} = {B707D818-8F21-4A44-97AA-285D464AFEB1}
+		{FAA24784-3353-4C41-96C7-FA05B4DB6EF8} = {B707D818-8F21-4A44-97AA-285D464AFEB1}
+		{DABEB667-404F-4FC3-9466-FD234B8C41B9} = {339BB02B-6028-4608-87B4-F43731F39EF8}
+		{EA86A654-FCCE-4109-8B9D-02360C486799} = {92ACCD5D-8607-4451-BE9F-7A0C5747AA8F}
+		{9DD7A638-24B8-4E31-8307-CE473BC7A510} = {9CA8B187-85E5-4115-8674-710AF75598C5}
+		{B55DCDD3-719C-486D-9CCF-58D22846E94D} = {E3BD2988-1E21-4801-AB9F-0CC6B0BC4FE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3AE2F3A-3020-4288-9AF3-2687ABC17D20}
