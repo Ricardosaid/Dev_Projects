@@ -55,6 +55,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tiny projects", "tiny proje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutithreads", "Mutithreads\Mutithreads.csproj", "{74986A51-2E27-4E5C-A07E-2118B7B4C871}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{74986A51-2E27-4E5C-A07E-2118B7B4C871}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74986A51-2E27-4E5C-A07E-2118B7B4C871}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74986A51-2E27-4E5C-A07E-2118B7B4C871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -155,6 +161,7 @@ Global
 		{9DD7A638-24B8-4E31-8307-CE473BC7A510} = {9CA8B187-85E5-4115-8674-710AF75598C5}
 		{B55DCDD3-719C-486D-9CCF-58D22846E94D} = {E3BD2988-1E21-4801-AB9F-0CC6B0BC4FE8}
 		{74986A51-2E27-4E5C-A07E-2118B7B4C871} = {A0F771A6-9995-4D25-B58A-78B97AFA8F20}
+		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4} = {92ACCD5D-8607-4451-BE9F-7A0C5747AA8F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3AE2F3A-3020-4288-9AF3-2687ABC17D20}
