@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutithreads", "Mutithreads\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethods", "GenericMethods\GenericMethods.csproj", "{B920A0D5-C3EF-4B90-B18F-C2F8C7183151}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B920A0D5-C3EF-4B90-B18F-C2F8C7183151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B920A0D5-C3EF-4B90-B18F-C2F8C7183151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B920A0D5-C3EF-4B90-B18F-C2F8C7183151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B920A0D5-C3EF-4B90-B18F-C2F8C7183151}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -162,6 +168,7 @@ Global
 		{B55DCDD3-719C-486D-9CCF-58D22846E94D} = {E3BD2988-1E21-4801-AB9F-0CC6B0BC4FE8}
 		{74986A51-2E27-4E5C-A07E-2118B7B4C871} = {A0F771A6-9995-4D25-B58A-78B97AFA8F20}
 		{BEF05655-3E6A-40A0-92DB-8457B89B3AD4} = {92ACCD5D-8607-4451-BE9F-7A0C5747AA8F}
+		{B920A0D5-C3EF-4B90-B18F-C2F8C7183151} = {92ACCD5D-8607-4451-BE9F-7A0C5747AA8F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3AE2F3A-3020-4288-9AF3-2687ABC17D20}
